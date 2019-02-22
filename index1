@@ -1,0 +1,73 @@
+<html>
+    <head>
+       <title>books</title>
+       <style>
+           h1{color:white;text-align: center ;font-size: 50}
+           body{background-color:darkseagreen}
+           p{font-size:18; font-family:cursive}
+           h2{color: wheat}
+        </style>   
+    </head>
+    
+    <body>
+        <h1 >five books to read before you die!!</h1>
+     
+        <OL type="1">
+      
+          <li><h2 > the power of focus</h2> </li>
+
+            <p  >Do you know the <b>#1</b>reason that stops people from getting what they want?
+            Ten years later, it's still a lack of focus. 
+            In the The Power of Focus, 10<sup>th</sup> Anniversary Edition, you'll discover:
+            How to thrive in a turbulent economy.
+            Proven financial strategies for today's world that will give you freedom and peace of mind.
+             How to focus on what you do best and let go of the rest.
+            Easy-to-implement Action Steps with every chapter.
+            Plus, the latest insights from the authors to help you prosper in all areas of your life</p>
+            
+               <!--this is the book's image-->
+<img src="https://images-na.ssl-images-amazon.com/images/I/51u0c7F5bjL._SX322_BO1,204,203,200_.jpg" width="300" height="300"  alt=" the power of focus">
+             <a href="https://www.amazon.co.uk/Power-Focus-Financial-Confidence-Certainty/dp/0091948223/ref=sr_1_1?s=books&ie=UTF8&qid=1550857647&sr=1-1&keywords=the+power+of+focus"><b>Buy NOW</b></a>
+            <hr>
+            
+           <li><h2>BOLD</h2></li>
+            <P >From the coauthors of the New York Times bestseller Abundance comes their much anticipated follow-up: Bold—a radical, how-to guide for using exponential technologies, moonshot thinking, and crowd-powered tools to create extraordinary wealth while also positively impacting the lives of billions.</P>
+                 <!--this is the book's image-->
+<img src="https://images.gr-assets.com/books/1422848692l/22609444.jpg" width="300" height="300"  alt=" bold">
+              <a href="https://www.amazon.co.uk/Bold-Create-Wealth-Impact-World/dp/1476709564/ref=sr_1_1?s=books&ie=UTF8&qid=1550856394&sr=1-1&keywords=bolds"><b>Buy NOW</b></a>
+
+                 <hr>
+            
+          <li><h2 >what are we doing when we pray</h2> </li>  
+            <p  >Vincent Brümmer's classic book on prayer from 1984 provides a comprehensive philosophical analysis of central issues regarding the nature and practice of prayer.This new edition has been substantially revised and updated. Serving as a valuable core text for students, this book also contributes to a number of current debates in theology and philosophy of religion: the debates on realism and religious belief, on the rationality of faith and the nature of theology, on the relation between religious belief and morality, on the relation between science and religion and the lively debate among evangelical Christians in America on the <mark>'openness of God.</mark></p>
+                                      <!--this is the book's image-->
+<img src="https://books.google.com.eg/books/content?id=GT_vuMGsNoEC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72VJKL736vixUB-E58Cjwt8QxQ5R18OmazANHqwdvGSlqoyCk16YvYx1EX-nJK_l_mtzdV3iE1u0_3qOupzXAKpQTbz93RJjHNFaNApI6gQ72IBdBcdM20cze27nfauzMsTkKMV" width="300" height="300"  alt=">what are we doing when we pray">
+             <a href="https://www.amazon.co.uk/What-Are-Doing-When-Pray/dp/0754662098/ref=sr_1_1?s=books&ie=UTF8&qid=1550857713&sr=1-1&keywords=what+are+we+doing+when+we+pray"><b>Buy NOW</b></a>
+                 <hr>
+            
+            
+            <li><h2>AWAKEN THE GAINT WHITHIN</h2></li>
+            <p  >Wake up and take control of your life! From the bestselling author of Inner Strength, Unlimited Power, and MONEY Master the Game, Anthony Robbins, the nation's leader in the science of peak performance, shows you his most effective strategies and techniques for mastering your emotions, your body, your relationships, your finances, and your life.
+
+The acknowledged expert in the psychology of change, Anthony Robbins provides a step-by-step program teaching the fundamental lessons of self-mastery that will enable you to discover your true purpose, take control of your life, and harness the forces that shape your destiny.</p>
+                <!--this is the book's image-->
+            <img src="https://images.gr-assets.com/books/1415677371l/180116.jpg" width="300" height="300"  alt="AWAKEN THE GAINT WHITHIN"> '
+            
+             <a href="https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/ref=sr_1_1?s=books&ie=UTF8&qid=1550857761&sr=1-1&keywords=awaken+the+giant+within"><b>Buy NOW</b></a>
+                 <hr>
+            
+            
+              <li><h2>The Five People You Meet in Heaven</h2></li>
+            <p >From the author of the phenomenal<b>#1</b> New York Times bestseller Tuesdays with Morrie, a novel that explores the unexpected connections of our lives, and the idea that heaven is more than a place; it's an answer. 
+
+            Eddie is a wounded war veteran, an old man who has lived, in his mind, an uninspired life. His job is fixing rides at a seaside amusement park. On his 83<sup>rd</sup> birthday, a tragic accident kills him as he tries to save a little girl from a falling cart. He awakes in the afterlife, where he learns that heaven is not a destination. It's a place where your life is explained to you by five people, some of whom you knew, others who may have been strangers. One by one, from childhood to soldier to old age, Eddie's five people revisit their connections to him on earth, illuminating the mysteries of his "meaningless" life, and revealing the haunting secret behind the eternal question: "Why was I here?"</p>
+                <!--this is the book's image-->
+             <img src="https://images.gr-assets.com/books/1388200541l/3431.jpg" width="300" height="300"  alt="The Five People You Meet in Heaven">
+            
+             <a href="https://www.amazon.co.uk/Five-People-You-Meet-Heaven/dp/0751536822/ref=sr_1_1?s=books&ie=UTF8&qid=1550857795&sr=1-1&keywords=The+Five+People+You+Meet+in+Heaven"><b>Buy NOW</b></a>
+        </OL>
+        
+
+      
+    </body>
+</html>
